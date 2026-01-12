@@ -2,3 +2,9 @@ body{
     background-color:bisque;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.resource-card{
+    border: 2;
+    border-radius: 80%;
+    border-color: burlywood;
+    border-style:groove;
+}
