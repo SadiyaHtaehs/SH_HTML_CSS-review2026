@@ -12,3 +12,7 @@ img{
     width: 200px;
     height: 200px;
 }
+.project{
+    border: 5px;
+    border-color: aquamarine;
+}
